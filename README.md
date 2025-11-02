@@ -1,6 +1,6 @@
 # AppSight-EDA-Feature-Engineering-on-Google-Play-Store-Data
 
-## 🧩 Project Overview
+##  Project Overview
 
 This project focuses on performing **Exploratory Data Analysis (EDA)** and **Feature Engineering (FE)** on the **Google Play Store dataset**.
 The goal is to extract meaningful insights about app performance, user ratings, and market trends, while also preparing the dataset for potential machine learning applications.
@@ -14,7 +14,7 @@ The analysis highlights:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** Google Play Store public dataset (commonly used in Kaggle challenges)
 
@@ -29,7 +29,7 @@ The analysis highlights:
 
 ---
 
-## 🧠 Project Workflow
+##  Project Workflow
 
 1. **Data Loading & Inspection**
 
@@ -63,7 +63,7 @@ The analysis highlights:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * **Programming Language:** Python
 * **Libraries Used:**
@@ -71,7 +71,7 @@ The analysis highlights:
 
 ---
 
-## 🧾 Key Insights
+## Key Insights
 
 * **Most popular categories:** Tools, Games, and Entertainment
 * **Paid vs Free apps:** Free apps dominate in installs, but paid apps tend to have slightly higher ratings
@@ -80,7 +80,7 @@ The analysis highlights:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── 3.0-EDA+And+FE+Google+Playstore.ipynb
@@ -93,7 +93,7 @@ The analysis highlights:
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 * Apply machine learning models to predict **app success or rating**
 * Automate feature selection pipeline
